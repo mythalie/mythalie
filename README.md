@@ -4,8 +4,7 @@
 ## Olá, seja bem-vindo(a) 👋🏼
 ### 🦸🏻‍♀️ Um pouco sobre mim:
 - 🎓 Formada em Análise e Desenvolvimento de Sistemas e atualmente cursando Desenvolvimento Back-End
-- 🚀 Desenvolvedora Full Stack em desenvolvimento
-- ❤ Sou apaixonada por gatos, harry potter e games
+- ❤ Apaixonada por gatos, games e harry potter
 
 ### 📫 Entre em contato comigo:
 <a href="https://www.linkedin.com/in/mythalie-sandretti-da-cruz/">
