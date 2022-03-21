@@ -1,4 +1,4 @@
-<img src="https://github.com/mythalie/mythalie.wiki.git" max-width="400px" width="400px" align="right"/>
+<img src="https://github.com/mythalie/mythalie/blob/main/my-octocat.png" max-width="400px" width="400px" align="right"/>
 
 
 ## Olá, seja bem-vindo(a) 👋🏼
