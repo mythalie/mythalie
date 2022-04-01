@@ -3,7 +3,7 @@
 
 ## Hi, welcome 👋🏼
 ### 🦸🏻‍♀️ About me
-- 🎓 Graduated in Systems Analysis and Development and currently studying Back-end Development
+- 🎓 Undergraduate in System Analysis and Development, and currently studying Back-End Development
 - 🚀 Full Stack Developer in Development
 - ❤ In love with cats, games and harry potter
 
