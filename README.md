@@ -4,7 +4,7 @@
 ## Hi, welcome 👋🏼
 ### 🦸🏻‍♀️ About me
 - 🎓 Undergraduate in System Analysis and Development, and currently studying Back-End Development
-- 🚀 Full Stack Developer in Development
+- 🚀 Back End Developer
 - ❤ In love with cats, games and harry potter
 
 ### 📫 Contact me
