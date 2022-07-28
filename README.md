@@ -14,4 +14,4 @@
   
 ### 📊 GitHub Stats
 <!--[![Estatísticas](https://github-readme-stats.vercel.app/api?username=mythalie&include_all_commits=true&hide=issues&hide_rank=true&count_private=true&show_icons=true&hide_border=true&theme=radical)](https://github.com/mythalie/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mythalie&count_private=true&langs_count=6&hide=php&layout=compact&hide_border=true&theme=default)](https://github.com/mythalie/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mythalie&layout=compact)](https://github.com/mythalie/github-readme-stats)
