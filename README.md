@@ -3,7 +3,7 @@
 
 ## Hi, welcome 👋🏼
 ### 🦸🏻‍♀️ About me
-- 🎓 Undergraduate in System Analysis and Development, and currently studying Back-End Development
+- 🎓 Undergraduate in System Analysis and Development
 - 🚀 Back End Developer
 - ❤ In love with cats, games and harry potter
 
